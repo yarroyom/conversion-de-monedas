@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ConsoleApp2tarea3.exe
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ConsoleApp2tarea3.deps.json
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ConsoleApp2tarea3.runtimeconfig.json
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ConsoleApp2tarea3.dll
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ref\ConsoleApp2tarea3.dll
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\bin\Debug\net6.0\ConsoleApp2tarea3.pdb
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.AssemblyInfo.cs
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.dll
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ref\ConsoleApp2tarea3.dll
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.pdb
+C:\Users\dell\source\repos\ConsoleApp2tarea3\ConsoleApp2tarea3\obj\Debug\net6.0\ConsoleApp2tarea3.genruntimeconfig.cache
